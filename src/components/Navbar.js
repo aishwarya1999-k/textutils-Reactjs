@@ -35,5 +35,5 @@ Navbar.propTypes = {
 
 Navbar.defaultPops = {
     title: 'Set title here',
-    aboutText: 'About text here'
+    aboutText: 'About text'
 }
